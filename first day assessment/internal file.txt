@@ -1,0 +1,67 @@
+LISTS
+Ordered Lists
+Numeric
+
+    Item 1
+    Item 2 
+
+Lowercase Letters
+
+    Item 1
+    Item 2 
+
+Uppercase Letters
+
+    Item 1
+    Item 2 
+
+Uppercase Roman Numbers
+
+    Item 1
+    Item 2 
+
+Lowercase Roman Numbers
+
+    Item 1
+    Item 2 
+
+Unordered List
+Default
+
+    Item 1
+    Item 2
+    Item 3
+
+None style
+
+    Item 1
+    Item 2
+    Item 3
+
+Disc Style
+
+    Item 1
+    Item 2
+    Item 3
+
+Circle Style
+
+    Item 1
+    Item 2
+    Item 3
+
+Square Style
+
+    Item 1
+    Item 2
+    Item 3
+
+Mix
+
+    Mobile Development
+    Web Development
+        React
+        Angular
+    Cloud Service
+
+Go Back
